@@ -1,0 +1,14 @@
+ovmath\heap_4.o: ..\Middlewares\FreeRtos\portable\MemMang\heap_4.c
+ovmath\heap_4.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdlib.h
+ovmath\heap_4.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\heap_4.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\heap_4.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\heap_4.o: ../Middlewares/FreeRtos/include/list.h

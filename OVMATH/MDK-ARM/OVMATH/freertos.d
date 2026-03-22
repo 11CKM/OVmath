@@ -1,0 +1,13 @@
+ovmath\freertos.o: ..\Core\Src\freertos.c
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\freertos.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\freertos.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\freertos.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/list.h
+ovmath\freertos.o: ../Middlewares/FreeRtos/include/timers.h

@@ -1,0 +1,15 @@
+ovmath\event_groups.o: ..\Middlewares\FreeRtos\source\event_groups.c
+ovmath\event_groups.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdlib.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\event_groups.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\event_groups.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/list.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/timers.h
+ovmath\event_groups.o: ../Middlewares/FreeRtos/include/event_groups.h

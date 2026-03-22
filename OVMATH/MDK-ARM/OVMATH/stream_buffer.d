@@ -1,0 +1,14 @@
+ovmath\stream_buffer.o: ..\Middlewares\FreeRtos\source\stream_buffer.c
+ovmath\stream_buffer.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\stream_buffer.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\stream_buffer.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/list.h
+ovmath\stream_buffer.o: ../Middlewares/FreeRtos/include/stream_buffer.h

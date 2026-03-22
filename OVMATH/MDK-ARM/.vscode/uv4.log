@@ -1,0 +1,14 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\stm32km\ARM\ARMCC\Bin'
+Build target 'OVMATH'
+compiling rtc.c...
+compiling DateUiBsp.c...
+../Driders/BSP/KT6368A.h(20): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\Driders\UI_Bsp_date\DateUiBsp.h(19): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\Driders\UI_Bsp_date\DateUiBsp.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=11980 RO-data=472 RW-data=84 ZI-data=3068  
+FromELF: creating hex file...
+"OVMATH\OVMATH.axf" - 0 Error(s), 2 Warning(s).
+Build Time Elapsed:  00:00:14

@@ -1,0 +1,14 @@
+ovmath\user_tasksinit.o: ..\Driders\USE_Task\user_TasksInit\user_TasksInit.c
+ovmath\user_tasksinit.o: ../Driders/USE_Task/INC/user_TasksInit.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\user_tasksinit.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\user_tasksinit.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\user_tasksinit.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\user_tasksinit.o: ../Middlewares/FreeRtos/include/list.h
+ovmath\user_tasksinit.o: ../Driders/USE_Task/INC/HardwareInitTask.h

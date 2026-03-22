@@ -1,0 +1,15 @@
+ovmath\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal_tick.c
+ovmath\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal_tick.h
+ovmath\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../lv_conf_internal.h
+ovmath\lv_hal_tick.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\lv_hal_tick.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../lv_conf_kconfig.h
+ovmath\lv_hal_tick.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+ovmath\lv_hal_tick.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdbool.h
+ovmath\lv_hal_tick.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\lv_hal_tick.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\lv_hal_tick.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\lv_hal_tick.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\lv_hal_tick.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\lv_hal_tick.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\lv_hal_tick.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\lv_hal_tick.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h

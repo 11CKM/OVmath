@@ -1,0 +1,13 @@
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_tlsf.c
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+ovmath\lv_tlsf.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+ovmath\lv_tlsf.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+ovmath\lv_tlsf.o: D:\stm32km\ARM\ARMCC\Bin\..\include\limits.h
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_tlsf.h
+ovmath\lv_tlsf.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+ovmath\lv_tlsf.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
+ovmath\lv_tlsf.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h

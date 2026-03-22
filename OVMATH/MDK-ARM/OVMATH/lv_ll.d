@@ -1,0 +1,11 @@
+ovmath\lv_ll.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_ll.c
+ovmath\lv_ll.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_ll.h
+ovmath\lv_ll.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\lv_ll.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\lv_ll.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdbool.h
+ovmath\lv_ll.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+ovmath\lv_ll.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+ovmath\lv_ll.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+ovmath\lv_ll.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+ovmath\lv_ll.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\lv_ll.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h

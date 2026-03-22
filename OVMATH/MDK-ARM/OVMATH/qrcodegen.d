@@ -1,0 +1,15 @@
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.c
+ovmath\qrcodegen.o: D:\stm32km\ARM\ARMCC\Bin\..\include\limits.h
+ovmath\qrcodegen.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdlib.h
+ovmath\qrcodegen.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\qrcodegen.h
+ovmath\qrcodegen.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdbool.h
+ovmath\qrcodegen.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\qrcodegen.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/lv_assert.h
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/../lv_conf_internal.h
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/../lv_conf_kconfig.h
+ovmath\qrcodegen.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/lv_log.h
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/lv_types.h
+ovmath\qrcodegen.o: ..\Middlewares\LVGL\GUI\lvgl\src\extra\libs\qrcode\../../../misc/lv_mem.h

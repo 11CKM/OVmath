@@ -1,0 +1,13 @@
+ovmath\croutine.o: ..\Middlewares\FreeRtos\source\croutine.c
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\croutine.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\croutine.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/list.h
+ovmath\croutine.o: ../Middlewares/FreeRtos/include/croutine.h

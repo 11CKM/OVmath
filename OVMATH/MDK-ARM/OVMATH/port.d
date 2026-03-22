@@ -1,0 +1,12 @@
+ovmath\port.o: ..\Middlewares\FreeRtos\portable\RVDS\ARM_CM4F\port.c
+ovmath\port.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\port.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\port.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\port.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\port.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\port.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\port.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\port.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\port.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\port.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\port.o: ../Middlewares/FreeRtos/include/list.h

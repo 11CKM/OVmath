@@ -1,0 +1,13 @@
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.c
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_async.h
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+ovmath\lv_async.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+ovmath\lv_async.o: ../Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+ovmath\lv_async.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\lv_async.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\lv_timer.h
+ovmath\lv_async.o: ..\Middlewares\LVGL\GUI\lvgl\src\misc\../hal/lv_hal_tick.h
+ovmath\lv_async.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdbool.h

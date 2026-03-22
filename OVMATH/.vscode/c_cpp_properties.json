@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\lvgl\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        },
+        {
+            "name": "STM32",
+            "includePath": [
+                "d:/stm32gc/LED/OVMATH/**",
+                "C:/Users/陈科名/.eide/tools/gcc_arm/arm-none-eabi/include",
+                "C:/Users/陈科名/.eide/tools/gcc_arm/lib/gcc/arm-none-eabi/14.3.1/include",
+                "d:/stm32gc/LED/OVMATH/Drivers/CMSIS/Include",
+                "d:/stm32gc/LED/OVMATH/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "d:/stm32gc/LED/OVMATH/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "d:/stm32gc/LED/OVMATH/Core/Inc"
+            ],
+            "defines": [
+                "USE_HAL_DRIVER",
+                "STM32F411xE"
+            ],
+            "compilerPath": "C:/Users/陈科名/.eide/tools/gcc_arm/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "gcc-arm",
+            "compilerPathInCppPropertiesJson": "C:/Users/陈科名/.eide/tools/gcc_arm/bin/arm-none-eabi-gcc.exe",
+            "mergeConfigurations": false,
+            "recursiveIncludes": {},
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,17 @@
+ovmath\tasks.o: ..\Middlewares\FreeRtos\source\tasks.c
+ovmath\tasks.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdlib.h
+ovmath\tasks.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\tasks.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\tasks.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/list.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/timers.h
+ovmath\tasks.o: ../Middlewares/FreeRtos/include/stack_macros.h
+ovmath\tasks.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdio.h

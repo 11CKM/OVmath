@@ -1,0 +1,15 @@
+ovmath\queue.o: ..\Middlewares\FreeRtos\source\queue.c
+ovmath\queue.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdlib.h
+ovmath\queue.o: D:\stm32km\ARM\ARMCC\Bin\..\include\string.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/FreeRTOS.h
+ovmath\queue.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stddef.h
+ovmath\queue.o: D:\stm32km\ARM\ARMCC\Bin\..\include\stdint.h
+ovmath\queue.o: ../Core/Inc/FreeRTOSConfig.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/projdefs.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/portable.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/deprecated_definitions.h
+ovmath\queue.o: ../Middlewares/FreeRtos/portable/RVDS/ARM_CM4F/portmacro.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/mpu_wrappers.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/task.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/list.h
+ovmath\queue.o: ../Middlewares/FreeRtos/include/queue.h
